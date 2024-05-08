@@ -1,1 +1,1 @@
-# javascript-questions
+# Javascript Questions
