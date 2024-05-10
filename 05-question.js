@@ -23,8 +23,8 @@ temp = x;
 x = y;
 y = temp;
 
-console.log(`The value of x after swapping: ${c}`);  // The value of x after swapping: 59
-console.log(`The value of y after swapping: ${d}`);  // The value of y after swapping: 34
+console.log(`The value of x after swapping: ${x}`);  // The value of x after swapping: 59
+console.log(`The value of y after swapping: ${y}`);  // The value of y after swapping: 34
 
 
 // :=> By Using Arithmetic Operators
