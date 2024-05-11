@@ -9,4 +9,4 @@
 | 05  | Swap Two Variables | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/05-question.js)
 | 06  | Calculate the Area of a Triangle | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/06-question.js)
 | 07  | Convert Kilometers to Miles | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/07-question.js)
-
+| 08  | Convert Celsius to Fahrenheit | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/08-question.js)
