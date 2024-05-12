@@ -11,3 +11,5 @@
 | 07  | Convert Kilometers to Miles | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/07-question.js)
 | 08  | Convert Celsius to Fahrenheit | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/08-question.js)
 | 09  | Generate a Random Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/09-question.js)
+| 10  | Check if a number is Positive, Negative, or Zero | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/10-question.js)
+
