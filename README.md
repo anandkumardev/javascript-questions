@@ -13,4 +13,5 @@
 | 09  | Generate a Random Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/09-question.js)
 | 10  | Check if a number is Positive, Negative, or Zero | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/10-question.js)
 | 11  | Check if a Number is Odd or Even | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/11-question.js)
+| 12  | Find the Largest Among Three Numbers | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/12-question.js)
 
