@@ -19,3 +19,5 @@
 | 15  | Print the Fibonacci Sequence | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/15-question.js)
 | 16  | Calculate Area of a Circle | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/16-question.js)
 | 17  | Find the Factorial of a Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/17-question.js)
+| 18  | Display the Multiplication Table | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/18-question.js)
+
