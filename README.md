@@ -22,3 +22,4 @@
 | 18  | Display the Multiplication Table | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/18-question.js)
 | 19  | Solve Quadratic Equation | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/19-question.js)
 | 20  | Check Armstrong Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/20-question.js)
+| 21  | CFind Armstrong Number in an Interval | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/21-question.js)
