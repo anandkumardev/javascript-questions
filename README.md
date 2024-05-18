@@ -24,3 +24,4 @@
 | 20  | Check Armstrong Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/20-question.js)
 | 21  | Find Armstrong Number in an Interval | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/21-question.js)
 | 22  | Find the Sum of Natural Numbers | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/22-question.js)
+| 23  | Check if the Numbers Have Same Last | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/23-question.js)
