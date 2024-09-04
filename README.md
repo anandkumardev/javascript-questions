@@ -14,5 +14,4 @@
 | 10  | Check if a Number is Odd or Even | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/10-question.js)
 | 11  | Find the Largest Among Three Numbers | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/11-question.js)
 | 12  | Check Prime Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/12-question.js)
-
-
+| 13  | Print All Prime Numbers in an Interval | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/13-question.js)
