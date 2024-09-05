@@ -16,3 +16,4 @@
 | 12  | Check Prime Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/12-question.js)
 | 13  | Print All Prime Numbers in an Interval | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/13-question.js)
 | 14  | Print the Fibonacci Sequence | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/14-question.js)
+| 15  | Calculate Area of a Circle | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/15-question.js)
