@@ -20,3 +20,4 @@
 | 16  | Find the Factorial of a Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/16-question.js)
 | 17  | Display the Multiplication Table | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/17-question.js)
 | 18  | Solve Quadratic Equation | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/18-question.js)
+| 19  | Check Armstrong Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/19-question.js)
