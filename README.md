@@ -22,3 +22,4 @@
 | 18  | Solve Quadratic Equation | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/18-question.js)
 | 19  | Check Armstrong Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/19-question.js)
 | 20  | Find Armstrong Number in an Interval | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/20-question.js)
+| 21  | Find the Sum of Natural Numbers | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/21-question.js)
