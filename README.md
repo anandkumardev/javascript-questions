@@ -26,3 +26,4 @@
 | 22  | Check if the Numbers Have Same Last | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/22-question.js)
 | 23  | Find the Factors of a Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/23-question.js)
 | 24  | Make a Simple Calculator | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/24-question.js)
+| 25  | Make a Simple Calculator with switch | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/25-question.js)
