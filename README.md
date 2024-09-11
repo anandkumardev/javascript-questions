@@ -28,3 +28,5 @@
 | 24  | Make a Simple Calculator | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/24-question.js)
 | 25  | Make a Simple Calculator with switch | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/25-question.js)
 | 26  | Find HCF or GCD | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/26-question.js)
+| 27  | Find LCM | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/27-question.js)
+
