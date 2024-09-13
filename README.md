@@ -31,3 +31,4 @@
 | 27  | Find LCM | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/27-question.js)
 | 28  | Guess a Random Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/28-question.js)
 | 29  | Shuffle Deck of Cards | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/29-question.js)
+| 30  | Find Sum of Natural Numbers Using Recursion | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/30-question.js)
