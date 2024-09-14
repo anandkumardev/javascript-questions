@@ -1,53 +1,34 @@
-// === Program to shuffle the deck of cards === //
+// === Program to Display Fibonacci Sequence Using Recursion === //
 
-// declare card elements
-const suits = ["Spades", "Diamonds", "Club", "Heart"];
-const values = [
-    "Ace",
-    "2",
-    "3",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "10",
-    "Jack",
-    "Queen",
-    "King",
-    "4",
-];
+const prompt = require('prompt-sync')(); // required to use prompt
 
-// empty array to contain cards
-let deck = [];
 
-// create a deck of cards
-for (let i = 0; i < suits.length; i++) {
-    for (let x = 0; x < values.length; x++) {
-        let card = { Value: values[x], Suit: suits[i] };
-        deck.push(card);
+function fibonacci(num) {
+    if(num < 2) {
+        return num;
+    }
+    else {
+        return fibonacci(num-1) + fibonacci(num - 2);
     }
 }
 
-// shuffle the cards
-for (let i = deck.length - 1; i > 0; i--) {
-    let j = Math.floor(Math.random() * i);
-    let temp = deck[i];
-    deck[i] = deck[j];
-    deck[j] = temp;
+// take nth term input from the user
+const nTerms = prompt('Enter the number of terms: ');
+
+if(nTerms <=0) {
+    console.log('Enter a positive integer.');
+}
+else {
+    for(let i = 0; i < nTerms; i++) {
+        console.log(fibonacci(i));
+    }
 }
 
-console.log('The first five cards are:');
 
-// display 5 results
-for (let i = 0; i < 5; i++) {
-    console.log(`${deck[i].Value} of ${deck[i].Suit}`)
-}
-
-/* The first five cards are:
-   2 of Club
-   5 of Diamonds
-   Ace of Spades
-   9 of Spades
-   2 of Spades
+/* Enter the number of terms: 5
+    0
+    1
+    2
+    3
+    1
 */
