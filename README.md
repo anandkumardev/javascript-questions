@@ -36,3 +36,4 @@
 | 32  | Find Factorial of Number Using Recursion | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/32-question.js)
 | 33  | Convert Decimal to Binary | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/33-question.js)
 | 34  | Find ASCII Value of Character | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/34-question.js)
+| 35  | Check Whether a String is Palindrome or Not | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/35-question.js)
