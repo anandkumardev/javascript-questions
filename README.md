@@ -39,3 +39,4 @@
 | 35  | Check Whether a String is Palindrome or Not | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/35-question.js)
 | 36  | Sort Words in Alphabetical Order | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/36-question.js)
 | 37  | Replace Characters of a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/37-question.js)
+| 38  | Reverse a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/38-question.js)
