@@ -35,7 +35,6 @@ console.log(result);
 
 
 
-
 // :::=> Using a Regex
 
 function countString1(str, letter) {
