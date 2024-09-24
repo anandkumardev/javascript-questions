@@ -42,3 +42,4 @@
 | 38  | Reverse a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/38-question.js)
 | 39  | Create Objects in Different Ways | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/39-question.js)
 | 40  | Check the No. of Occurrences of a Character in the String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/40-question.js)
+| 41  | Convert the First Letter of a String into UpperCase | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/41-question.js)
