@@ -47,3 +47,4 @@
 | 43  | Remove a Property from an Object | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/43-question.js)
 | 44  | Check if a Key Exists in an Object | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/44-question.js)
 | 45 | Check the Number of Occurrences of a Character in the String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/45-question.js)
+| 46 | Check the Number of Occurrences of a Character in the String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/46-question.js)
