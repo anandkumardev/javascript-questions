@@ -51,3 +51,4 @@
 | 47 | Add Key/Value Pair to an Object | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/47-question.js)
 | 48 | Replace All Occurrences of a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/48-question.js)
 | 49 | Create Multiline Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/49-question.js)
+| 50 | Generate Random String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/50-question.js)
