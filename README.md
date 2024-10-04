@@ -52,3 +52,4 @@
 | 48 | Replace All Occurrences of a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/48-question.js)
 | 49 | Create Multiline Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/49-question.js)
 | 50 | Generate Random String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/50-question.js)
+| 51 | Check if a String Starts With Another String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/51-question.js)
