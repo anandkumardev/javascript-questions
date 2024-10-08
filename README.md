@@ -56,3 +56,4 @@
 | 52 | Trim a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/52-question.js)
 | 53 | Convert Objects to Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/53-question.js)
 | 54 | Check Whether a String Contains a Substring | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/54-question.js)
+| 55 | Compare Two Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/55-question.js)
