@@ -57,3 +57,4 @@
 | 53 | Convert Objects to Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/53-question.js)
 | 54 | Check Whether a String Contains a Substring | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/54-question.js)
 | 55 | Compare Two Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/55-question.js)
+| 56 | Replace all Instances of a Character in a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/56-question.js)
