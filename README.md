@@ -59,3 +59,4 @@
 | 55 | Compare Two Strings | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/55-question.js)
 | 56 | Replace all Instances of a Character in a String | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/56-question.js)
 | 57 | Replace All Line Breaks with | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/57-question.js)
+| 58 | Display Date and Time | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/58-question.js)
