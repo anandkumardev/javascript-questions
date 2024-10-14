@@ -62,3 +62,4 @@
 | 58 | Display Date and Time | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/58-question.js)
 | 59 | Check Leap Year | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/59-question.js)
 | 60 | Format the Date | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/60-question.js)
+| 61 | Display Current Date | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/61-question.js)
