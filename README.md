@@ -65,3 +65,4 @@
 | 61 | Display Current Date | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/61-question.js)
 | 62 | Compare The Value of Two Dates | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/62-question.js)
 | 63 | Create Countdown Timer | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/63-question.js)
+| 64 | Remove Specific Item From an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/64-question.js)
