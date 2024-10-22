@@ -70,3 +70,4 @@
 | 66 | Insert Item in an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/66-question.js)
 | 67 | Append an Object to an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/67-question.js)
 | 68 | Check if An Object is An Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/68-question.js)
+| 69 | Empty an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/69-question.js)
