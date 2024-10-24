@@ -72,3 +72,4 @@
 | 68 | Check if An Object is An Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/68-question.js)
 | 69 | Empty an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/69-question.js)
 | 70 | Add Element to Start of an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/70-question.js)
+| 71 | Remove Duplicates From Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/71-question.js)
