@@ -73,3 +73,4 @@
 | 69 | Empty an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/69-question.js)
 | 70 | Add Element to Start of an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/70-question.js)
 | 71 | Remove Duplicates From Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/71-question.js)
+| 72 | Merge Two Arrays and Remove Duplicate Items | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/72-question.js)
