@@ -76,3 +76,4 @@
 | 72 | Merge Two Arrays and Remove Duplicate Items | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/72-question.js)
 | 73 | Sort Array of Objects by Property Values | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/73-question.js)
 | 74 | Create Two Dimensional Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/74-question.js)
+| 75 | Extract Given Property Values from Objects as Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/75-question.js)
