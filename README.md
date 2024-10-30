@@ -78,3 +78,4 @@
 | 74 | Create Two Dimensional Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/74-question.js)
 | 75 | Extract Given Property Values from Objects as Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/75-question.js)
 | 76 | Get Random Item From an Array | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/76-question.js)
+| 77 | Compare Elements of Two Arrays | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/77-question.js)
