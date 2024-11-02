@@ -81,3 +81,4 @@
 | 77 | Compare Elements of Two Arrays | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/77-question.js)
 | 78 | Perform Intersection Between Two Arrays | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/78-question.js)
 | 79 | Split Array into Smaller Chunks | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/79-question.js)
+| 80 | Split Array into Smaller Chunks | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/80-question.js)
