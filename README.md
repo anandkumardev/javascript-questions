@@ -82,3 +82,4 @@
 | 78 | Perform Intersection Between Two Arrays | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/78-question.js)
 | 79 | Split Array into Smaller Chunks | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/79-question.js)
 | 80 | Get File Extension | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/80-question.js)
+| 81 | Check If A Variable Is undefined or null | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/81-question.js)
