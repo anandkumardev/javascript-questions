@@ -86,4 +86,4 @@
 | 82 | Set a Default Parameter Value For a Function | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/82-question.js)
 | 83 | Generate a Random Number B/W Two Numbers | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/83-question.js)
 | 84 | Get The Current URL | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/84-question.js)
-| 85 | Get The Current URL | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/85-question.js)
+| 85 | Validate An Email Address | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/85-question.js)
