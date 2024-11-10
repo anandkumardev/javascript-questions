@@ -89,3 +89,4 @@
 | 85 | Validate An Email Address | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/85-question.js)
 | 86 | Work With Constants | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/86-question.js)
 | 87 | Check If a Variable is of Function Type | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/87-question.js)
+| 88 | Pass Parameter to a setTimeout() Function | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/88-question.js)
