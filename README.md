@@ -90,3 +90,4 @@
 | 86 | Work With Constants | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/86-question.js)
 | 87 | Check If a Variable is of Function Type | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/87-question.js)
 | 88 | Pass Parameter to a setTimeout() Function | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/88-question.js)
+| 89 | Generate a Range of Numbers and Characters | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/89-question.js)
