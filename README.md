@@ -92,3 +92,4 @@
 | 88 | Pass Parameter to a setTimeout() Function | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/88-question.js)
 | 89 | Generate a Range of Numbers and Characters | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/89-question.js)
 | 90 | Implement a Stack | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/90-question.js)
+| 91 | Implement a Queue | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/91-question.js)
