@@ -93,3 +93,4 @@
 | 89 | Generate a Range of Numbers and Characters | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/89-question.js)
 | 90 | Implement a Stack | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/90-question.js)
 | 91 | Implement a Queue | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/91-question.js)
+| 92 | Check if a Number is Float or Integer | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/92-question.js)
