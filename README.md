@@ -96,3 +96,4 @@
 | 92 | Check if a Number is Float or Integer | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/92-question.js)
 | 93 | Pass a Function as Parameter | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/93-question.js)
 | 94 | Get the Dimensions of an Image | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/94-question.js)
+| 95 | Remove All Whitespaces From a Text | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/95-question.js)
