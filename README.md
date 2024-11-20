@@ -98,3 +98,4 @@
 | 94 | Get the Dimensions of an Image | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/94-question.js)
 | 95 | Remove All Whitespaces From a Text | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/95-question.js)
 | 96 | Write to Console | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/96-question.js)
+| 97 | Convert Date to Number | [Link](https://github.com/anandkumardev/javascript-questions/blob/main/97-question.js)
